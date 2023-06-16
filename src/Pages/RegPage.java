@@ -7,6 +7,7 @@ public class RegPage {
 		int i =10;
         int age = 25;
         int w = 0;
+        String coun = "USA";
 	}
 
 }
